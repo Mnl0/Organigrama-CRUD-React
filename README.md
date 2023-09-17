@@ -1,5 +1,5 @@
 #Practica de react component
-crud - organigrama de equipos
+CRUD - organigrama de equipos
 
 
 # Getting Started with Create React App
